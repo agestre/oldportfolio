@@ -1,1 +1,1 @@
-window.alert("Welcome to my page!"!)
+window.alert("Welcome to my page!");
